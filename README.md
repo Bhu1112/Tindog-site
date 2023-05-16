@@ -1,2 +1,1 @@
-# Tindog-site
-Sample site 
+TinDog Starting Files
